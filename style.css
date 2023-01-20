@@ -1,0 +1,9 @@
+.noborder {
+border: none;
+}
+.card .card-block.up {
+  padding-bottom: 0;
+}
+.card .card-block.down {
+  padding-top: 0;
+}
